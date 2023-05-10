@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/claudionsc/claudionsc/blob/output/github-contribution-grid-snake.svg)
 ### Olá, eu me chamo Claudio
 *(mas pode me chamar de Gabriel)*
 
