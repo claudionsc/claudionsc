@@ -8,7 +8,7 @@
 
 ### Um pouco sobre mim
 
-Tenho 26 anos, sou natural de Salvador, Bahia e estou à procura de uma oportunidade como desenvolvedor!
+Tenho 28 anos, sou natural de Salvador, Bahia e sou apaixonado por desenvolvimento.
 Estou cursando graduação em Marketing e me considero um entusiasta em tecnologia e amante do design gráfico.
 Comecei na área de programação com um curso de desenvolvimento fullstack, que eu concluí no ano de 2022 e onde me encontrei como pessoa e profissional.
 <br>
@@ -37,8 +37,8 @@ Comecei na área de programação com um curso de desenvolvimento fullstack, que
 <br>
 <br>
 <br>
-Com front-end, uso as tecnologias ReactJs (Hooks, States, Context API, Redux, Routes, Rest HTTP, TDD), HTML, CSS(Flexbox, Grid, Styled-Components, CSS in JS, CSS Responsivo, SASS) e Javascript/Typescript. Com back-end, possuo conhecimentos em Nodejs e Banco de dados (MySql, Postgresql e Mongodb). Também tenho conhecimentos em versionamento de código usando GIT e gerenciamento de dependências com NPM.
-No momento, estou estudando .Net e C#
+Com front-end, uso as tecnologias ReactJs (Hooks, States, Context API, Redux, Routes, Rest HTTP, Testes Unitários), HTML, CSS(Flexbox, Grid, Styled-Components, CSS in JS, CSS Responsivo, SASS) e Javascript/Typescript. Com back-end, possuo conhecimentos em Nodejs, NestJs, estou desenvolvendo conhecimentos em GraphQL e Banco de dados (MySql, Postgresql e Mongodb). Também tenho conhecimentos em versionamento de código usando GIT e gerenciamento de dependências com NPM e YARN.
+No momento, estou trabalhando prestando serviço para o cliente Caixa, usando principalmente Typescript e.Net, C#
 
 Além disso, tenho vivências com:
 * Concepção de projetos gráficos com Adobe Illustrator e Photoshop
